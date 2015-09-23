@@ -1,0 +1,1 @@
+Projects made during the Computer Science Engineering Career. It includes all the projects made by myself (erik giron) during this exciting career.
